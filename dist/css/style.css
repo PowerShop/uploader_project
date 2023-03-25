@@ -1,0 +1,38 @@
+/* Import Mitr Google Font */
+@import url("https://fonts.googleapis.com/css2?family=Mitr&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+}
+
+/* remove underline from all link */
+a {
+    text-decoration: none !important;
+}
+
+/* Background black opacity 75% */
+body {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Font */
+body {
+    font-family: "Mitr", sans-serif;
+}
+
+/* Slow Close */
+#collapsibleNavId {
+    transition: all 1.25s ease;
+}
+
+/* Title Animation Custom Text */
+#title-typing {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
