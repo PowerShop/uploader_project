@@ -7,8 +7,8 @@
     // $config['db_user'] = 'root';
     // $config['db_password'] = '';
 
-    $config['db_host'] = 'sql206.epizy.com';
+    $config['db_host'] = '';
     $config['db_database'] = 'epiz_33843964_mini_project';
-    $config['db_user'] = 'epiz_33843964';
-    $config['db_password'] = 'Kittisak110';
+    $config['db_user'] = '';
+    $config['db_password'] = '';
 ?>
